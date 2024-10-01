@@ -1,0 +1,94 @@
+[
+    {
+        "ID": "1",
+        "Name": "Priya",
+        "Email" : "priya@gmail.com",
+        "ProductName":"Hair Mask"
+    },
+    {
+        "ID": "2",
+        "Name": "Riya",
+        "Email" : "riya@gmail.com",
+        "ProductName":"Nail Polish"
+    },
+    {
+        "ID": "3",
+        "Name": "Shreya",
+        "Email" : "shreya123@gmail.com",
+        "ProductName":"Hair Clips"
+    },
+    {
+        "ID": "4",
+        "Name": "Ramesh",
+        "Email" : "ramesh23@gmail.com",
+        "ProductName":"Face Cream"
+    },
+    {
+        "ID": "5",
+        "Name": "Ram",
+        "Email" : "ram78@gmail.com",
+        "ProductName": "Under Eye Cream"
+    },
+    {
+        "ID": "6",
+        "Name": "Alpa",
+        "Email" : "alpha345@gmail.com",
+        "ProductName": "Lipstick"
+    },
+    {
+        "ID": 7,
+        "Name": "Aarohi Sharma",
+        "Email": "aarohi.sharma@google.com",
+        "ProductName": "Glow Boost Face Serum"
+      },
+      {
+        "ID": 8,
+        "Name": "Diya Patel",
+        "Email": "diya.patel@google.com",
+        "ProductName": "Hydrating Aloe Vera Gel"
+      },
+      {
+        "ID": 9,
+        "Name": "Ishita Singh",
+        "Email": "ishita.singh@google.com",
+        "ProductName": "Silk Smooth Hair Serum"
+      },
+      {
+        "ID": 10,
+        "Name": "Meera Gupta",
+        "Email": "meera.gupta@google.com",
+        "ProductName": "Nourishing Body Butter"
+      },
+      {
+        "ID": 11,
+        "Name": "Nisha Reddy",
+        "Email": "nisha.reddy@google.com",
+        "ProductName": "Rejuvenating Night Cream"
+      },
+      {
+        "ID": 12,
+        "Name": "Pari Mehta",
+        "Email": "pari.mehta@google.com",
+        "ProductName": "Brightening Face Wash"
+      },
+      {
+        "ID": 13,
+        "Name": "Riya Desai",
+        "Email": "riya.desai@google.com",
+        "ProductName": "Herbal Hair Oil"
+      },
+      {
+        "ID": 14,
+        "Name": "Saanvi Rao",
+        "Email": "saanvi.rao@google.com",
+        "ProductName": "Anti-Aging Eye Serum"
+      },
+      {
+        "ID": 15,
+        "Name": "Tara Verma",
+        "Email": "tara.verma@google.com",
+        "ProductName": "Vitamin C Face Cream"
+      }
+    
+    
+]
